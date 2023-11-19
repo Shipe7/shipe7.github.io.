@@ -1,3 +1,3 @@
 
-# shipe7.github.io.
+# shipe7.github.io
 >>>>>>> origin/main
